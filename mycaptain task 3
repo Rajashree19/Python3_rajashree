@@ -1,0 +1,5 @@
+#To print positive numbers
+mylist = [12,45,-99,-7,54,32]
+for var in mylist:                                  #Loop 
+    if var>0:            #Condition for positive numbers
+        print(var)
