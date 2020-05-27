@@ -1,5 +1,16 @@
 #To print positive numbers
 mylist = [12,45,-99,-7,54,32]
+print("The positive integers are: ")
 for var in mylist:                                  #Loop 
     if var>0:            #Condition for positive numbers
         print(var)
+        
+        
+#OUTPUT SCREEN
+The positive integers are: 
+12
+45
+54
+32
+
+        
